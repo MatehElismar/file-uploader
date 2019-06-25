@@ -1,0 +1,19 @@
+{
+  "name": "file-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matehelismar/file-uploader.git"
+  },
+  "author": "Mateh Elismar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matehelismar/file-uploader/issues"
+  },
+  "homepage": "https://github.com/matehelismar/file-uploader#readme"
+}
