@@ -6,7 +6,7 @@ def dir(path, x):
     global tabs
     inside = lookInto(path) 
     if x:
-        tabs +='\t'
+        tabs +='|   '
     for file in inside:
         print(tabs + file['name'])
         parentPath = os.path.join(path, file['name'])
@@ -14,7 +14,7 @@ def dir(path, x):
         if(file_inside): 
             dir(parentPath, True)
     if x:
-        tabs = tabs.replace('\t', '', 1)
+        tabs = tabs.replace('|   ', '', 1)
 
 def scanDir(path):
     files = []

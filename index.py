@@ -1,3 +1,3 @@
 import fs
 
-fs.dir('./visitas/', False)  
+fs.dir('./', False)  
