@@ -1,0 +1,570 @@
+[
+    {
+        "method" : "login", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "us" : {
+                    "_id" : "5cae869b767a6f35dc806e63", 
+                    "first" : "Marlyn", 
+                    "last" : "Pimentel", 
+                    "email" : "matematicoelismar@gmail.com", 
+                    "accessID" : "5cae67b4d4557dd5a77f13c0", 
+                    "id" : "5cae869b767a6f35dc806e63"
+                }, 
+                "redirectURL" : "/home"
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183435643224065", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183435643224065", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183435643224065", 
+                    "signature" : {
+                        "hash" : "aKPUOangQLqNkfjIy5YJwhOxb+c=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183439938191361", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183439938191361", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183439938191361", 
+                    "signature" : {
+                        "hash" : "aLPv7MBIQqfjhNwHshvzgRU4Ar8=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183444233158657", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183444233158657", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183444233158657", 
+                    "signature" : {
+                        "hash" : "1jEJtI6utWGe7y7Ozcmq/7kNk2s=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183444233158658", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183444233158658", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183444233158658", 
+                    "signature" : {
+                        "hash" : "1jEJtI6utWGe7y7Ozcmq/7kNk2s=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183448528125953", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183448528125953", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183448528125953", 
+                    "signature" : {
+                        "hash" : "xVrhoh9x4zCD1WXldlFNAScR6DI=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183448528125954", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183448528125954", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183448528125954", 
+                    "signature" : {
+                        "hash" : "xVrhoh9x4zCD1WXldlFNAScR6DI=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183452823093249", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183452823093249", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183452823093249", 
+                    "signature" : {
+                        "hash" : "NZeOzXB3lBeN8WTWpevg/idbOH4=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183452823093250", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183452823093250", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183452823093250", 
+                    "signature" : {
+                        "hash" : "NZeOzXB3lBeN8WTWpevg/idbOH4=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183457118060545", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183457118060545", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183457118060545", 
+                    "signature" : {
+                        "hash" : "dSI+nEaDSxDFUH9L08ERuexkmis=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183461413027841", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183461413027841", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183461413027841", 
+                    "signature" : {
+                        "hash" : "QQJqji1Mfifkuud4mCgme7sdyQs=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183461413027842", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183461413027842", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183461413027842", 
+                    "signature" : {
+                        "hash" : "QQJqji1Mfifkuud4mCgme7sdyQs=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183465707995137", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183465707995137", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183465707995137", 
+                    "signature" : {
+                        "hash" : "tmDRBgK1oVSIeJQyoj0j+GWKqmk=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183470002962433", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183470002962433", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183470002962433", 
+                    "signature" : {
+                        "hash" : "O+qRt6m9xJfLzJsrRgDNdZecjUg=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183470002962434", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183470002962434", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183470002962434", 
+                    "signature" : {
+                        "hash" : "O+qRt6m9xJfLzJsrRgDNdZecjUg=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183474297929729", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183474297929729", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183474297929729", 
+                    "signature" : {
+                        "hash" : "NM5e5kXwmg2rsHqQtYhUfUjq+W0=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183474297929730", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183474297929730", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183474297929730", 
+                    "signature" : {
+                        "hash" : "NM5e5kXwmg2rsHqQtYhUfUjq+W0=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183478592897025", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183478592897025", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183478592897025", 
+                    "signature" : {
+                        "hash" : "TVST/S+XOQtfAAD/Dm8H+UKBz0c=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183478592897026", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183478592897026", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183478592897026", 
+                    "signature" : {
+                        "hash" : "TVST/S+XOQtfAAD/Dm8H+UKBz0c=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183482887864321", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183482887864321", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183482887864321", 
+                    "signature" : {
+                        "hash" : "+2vCVNw1K01eAc2Opn4aydkXSdQ=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183487182831617", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183487182831617", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183487182831617", 
+                    "signature" : {
+                        "hash" : "JOwX8JPUKd5g8MpbuF5sspFesWY=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183487182831618", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183487182831618", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183487182831618", 
+                    "signature" : {
+                        "hash" : "JOwX8JPUKd5g8MpbuF5sspFesWY=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "opTime" : {
+                    "ts" : "6711183491477798913", 
+                    "t" : 8
+                }, 
+                "electionId" : "7fffffff0000000000000008", 
+                "ok" : 1, 
+                "operationTime" : "6711183491477798913", 
+                "$clusterTime" : {
+                    "clusterTime" : "6711183491477798913", 
+                    "signature" : {
+                        "hash" : "XE65XfFiirblZdhsq9rxgazOZ5w=", 
+                        "keyId" : "6662404933716803585"
+                    }
+                }
+            }
+        }
+    }
+]
