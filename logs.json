@@ -21,25 +21,12 @@
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183435643224065", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183435643224065", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183435643224065", 
-                    "signature" : {
-                        "hash" : "aKPUOangQLqNkfjIy5YJwhOxb+c=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "468338", 
+            "fecha" : "2019-05-09:00:00"
         }
     }, 
     {
@@ -48,23 +35,23 @@
         "data" : {
             "ok" : true, 
             "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183439938191361", 
-                    "t" : 8
+                "images" : {
+                    "estela" : "7e3e20c4562ef8c35fffdedd7f6fb2b2.jpg", 
+                    "corona" : "6d3e789834d8f4f839a6273e1d58eb00.jpg", 
+                    "camarero" : "c1b64b5212d907befdc1f091ad6a453a.jpg"
                 }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183439938191361", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183439938191361", 
-                    "signature" : {
-                        "hash" : "aLPv7MBIQqfjhNwHshvzgRU4Ar8=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
+                "timeSpan" : "2019-07-08T06:57:46.047Z", 
+                "_id" : "5d36c130f8e79533a661698d", 
+                "codigoPOS" : "503510", 
+                "fecha" : "2019-05-13T00:00:00.000Z", 
+                "cumplimiento" : true, 
+                "__v" : 0, 
+                "id" : "5d36c130f8e79533a661698d"
             }
+        }, 
+        "pdv" : {
+            "codigoPOS" : "503510", 
+            "fecha" : "2019-05-13:00:00"
         }
     }, 
     {
@@ -73,23 +60,23 @@
         "data" : {
             "ok" : true, 
             "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183444233158657", 
-                    "t" : 8
+                "images" : {
+                    "estela" : "5d0618d3229d5c88b6c689bcdbceada6.jpg", 
+                    "corona" : "53934124bbb6e15e7e30d72963120541.jpg", 
+                    "camarero" : "6ee73bee1fc673c2d75b04bd64ba474a.jpg"
                 }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183444233158657", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183444233158657", 
-                    "signature" : {
-                        "hash" : "1jEJtI6utWGe7y7Ozcmq/7kNk2s=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
+                "timeSpan" : "2019-07-08T06:57:46.047Z", 
+                "_id" : "5d36c131f8e79533a661698e", 
+                "codigoPOS" : "503510", 
+                "fecha" : "2019-05-21T00:00:00.000Z", 
+                "cumplimiento" : true, 
+                "__v" : 0, 
+                "id" : "5d36c131f8e79533a661698e"
             }
+        }, 
+        "pdv" : {
+            "codigoPOS" : "503510", 
+            "fecha" : "2019-05-21:00:00"
         }
     }, 
     {
@@ -98,473 +85,344 @@
         "data" : {
             "ok" : true, 
             "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183444233158658", 
-                    "t" : 8
+                "images" : {
+                    "estela" : "7b0012982f2e129f290eaaf635b63898.jpg", 
+                    "corona" : "f0c301abb0d0a4efafdcf3bbe445e965.jpg", 
+                    "camarero" : "5bed6164c5b0b2e012f4933fef04fd25.jpg"
                 }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183444233158658", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183444233158658", 
-                    "signature" : {
-                        "hash" : "1jEJtI6utWGe7y7Ozcmq/7kNk2s=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
+                "timeSpan" : "2019-07-08T06:57:46.047Z", 
+                "_id" : "5d36c132f8e79533a661698f", 
+                "codigoPOS" : "503510", 
+                "fecha" : "2019-06-13T00:00:00.000Z", 
+                "cumplimiento" : true, 
+                "__v" : 0, 
+                "id" : "5d36c132f8e79533a661698f"
             }
+        }, 
+        "pdv" : {
+            "codigoPOS" : "503510", 
+            "fecha" : "2019-06-13:00:00"
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : "error", 
+        "data" : "<html>\r\n<head><title>413 Request Entity Too Large</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>413 Request Entity Too Large</h1></center>\r\n<hr><center>nginx/1.10.3 (Ubuntu)</center>\r\n</body>\r\n</html>\r\n", 
+        "pdv" : {
+            "codigoPOS" : "503510", 
+            "fecha" : "2019-06-20:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183448528125953", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183448528125953", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183448528125953", 
-                    "signature" : {
-                        "hash" : "xVrhoh9x4zCD1WXldlFNAScR6DI=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "507068", 
+            "fecha" : "2019-03-30:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183448528125954", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183448528125954", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183448528125954", 
-                    "signature" : {
-                        "hash" : "xVrhoh9x4zCD1WXldlFNAScR6DI=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "510354", 
+            "fecha" : "2019-04-08:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183452823093249", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183452823093249", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183452823093249", 
-                    "signature" : {
-                        "hash" : "NZeOzXB3lBeN8WTWpevg/idbOH4=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "510354", 
+            "fecha" : "2019-04-15:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183452823093250", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183452823093250", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183452823093250", 
-                    "signature" : {
-                        "hash" : "NZeOzXB3lBeN8WTWpevg/idbOH4=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "510354", 
+            "fecha" : "2019-05-07:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183457118060545", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183457118060545", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183457118060545", 
-                    "signature" : {
-                        "hash" : "dSI+nEaDSxDFUH9L08ERuexkmis=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "510422", 
+            "fecha" : "2019-05-04:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183461413027841", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183461413027841", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183461413027841", 
-                    "signature" : {
-                        "hash" : "QQJqji1Mfifkuud4mCgme7sdyQs=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "511182", 
+            "fecha" : "2019-05-05:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183461413027842", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183461413027842", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183461413027842", 
-                    "signature" : {
-                        "hash" : "QQJqji1Mfifkuud4mCgme7sdyQs=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "511182", 
+            "fecha" : "2019-05-08:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183465707995137", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183465707995137", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183465707995137", 
-                    "signature" : {
-                        "hash" : "tmDRBgK1oVSIeJQyoj0j+GWKqmk=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "512162-1", 
+            "fecha" : "2019-05-09:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183470002962433", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183470002962433", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183470002962433", 
-                    "signature" : {
-                        "hash" : "O+qRt6m9xJfLzJsrRgDNdZecjUg=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "512162-2", 
+            "fecha" : "2019-05-07:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183470002962434", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183470002962434", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183470002962434", 
-                    "signature" : {
-                        "hash" : "O+qRt6m9xJfLzJsrRgDNdZecjUg=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "512162-2", 
+            "fecha" : "2019-05-08:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183474297929729", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183474297929729", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183474297929729", 
-                    "signature" : {
-                        "hash" : "NM5e5kXwmg2rsHqQtYhUfUjq+W0=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "513158", 
+            "fecha" : "2019-05-04:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183474297929730", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183474297929730", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183474297929730", 
-                    "signature" : {
-                        "hash" : "NM5e5kXwmg2rsHqQtYhUfUjq+W0=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "513739", 
+            "fecha" : "2019-05-04:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183478592897025", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183478592897025", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183478592897025", 
-                    "signature" : {
-                        "hash" : "TVST/S+XOQtfAAD/Dm8H+UKBz0c=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "513739", 
+            "fecha" : "2019-05-08:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183478592897026", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183478592897026", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183478592897026", 
-                    "signature" : {
-                        "hash" : "TVST/S+XOQtfAAD/Dm8H+UKBz0c=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "513739", 
+            "fecha" : "2019-05-10:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183482887864321", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183482887864321", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183482887864321", 
-                    "signature" : {
-                        "hash" : "+2vCVNw1K01eAc2Opn4aydkXSdQ=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "515319", 
+            "fecha" : "2019-05-04:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183487182831617", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183487182831617", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183487182831617", 
-                    "signature" : {
-                        "hash" : "JOwX8JPUKd5g8MpbuF5sspFesWY=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "515360", 
+            "fecha" : "2019-03-22:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183487182831618", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183487182831618", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183487182831618", 
-                    "signature" : {
-                        "hash" : "JOwX8JPUKd5g8MpbuF5sspFesWY=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "515360", 
+            "fecha" : "2019-05-05:00:00"
         }
     }, 
     {
         "method" : "add-visit", 
         "status" : 200, 
         "data" : {
-            "ok" : true, 
-            "data" : {
-                "n" : 1, 
-                "nModified" : 1, 
-                "opTime" : {
-                    "ts" : "6711183491477798913", 
-                    "t" : 8
-                }, 
-                "electionId" : "7fffffff0000000000000008", 
-                "ok" : 1, 
-                "operationTime" : "6711183491477798913", 
-                "$clusterTime" : {
-                    "clusterTime" : "6711183491477798913", 
-                    "signature" : {
-                        "hash" : "XE65XfFiirblZdhsq9rxgazOZ5w=", 
-                        "keyId" : "6662404933716803585"
-                    }
-                }
-            }
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "515360", 
+            "fecha" : "2019-05-08:00:00"
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "518904", 
+            "fecha" : "2019-05-04:00:00"
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "519497", 
+            "fecha" : "2019-05-05:00:00"
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "519497", 
+            "fecha" : "2019-05-08:00:00"
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "521219", 
+            "fecha" : "2019-05-07:00:00"
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "521219", 
+            "fecha" : "2019-05-12:00:00"
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "521833", 
+            "fecha" : "2019-05-05:00:00"
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "521858", 
+            "fecha" : "2019-05-06:00:00"
+        }
+    }, 
+    {
+        "method" : "add-visit", 
+        "status" : 200, 
+        "data" : {
+            "ok" : false, 
+            "error" : "Ya se ha agregado una visita en esta FECHA"
+        }, 
+        "pdv" : {
+            "codigoPOS" : "522446", 
+            "fecha" : "2019-05-04:00:00"
         }
     }
 ]
