@@ -5,6 +5,8 @@ from consts import FROM_PATH
 def log():
    with open('./logs.json', 'w') as f: 
       json.dump(response['logs'], f, indent=4, separators=(", ", " : "))
+   with open('./error.json', 'w') as f: 
+      json.dump(response['errors'], f, indent=4, separators=(", ", " : "))
    with open('./uploaded.json', 'w') as f: 
       json.dump(response['uploadedVisits'], f, indent=4, separators=(", ", " : "))
 
@@ -18,8 +20,9 @@ response['logs'] = []
 response['errors'] = []
 response['uploadedVisits'] = []
 uploaded = []
-with open('./last-uploaded.json', 'r') as f: 
-   uploaded = json.load(f)
+with open('./uploaded.json', 'r') as f: 
+   response['uploadedVisits'] = json.load(f)
+
 # FS TEST
 def Visits():
    pdvs = fs.dirToJSON({}, FROM_PATH) 
@@ -52,7 +55,8 @@ def POSImages():
 def hasbeenUploaded(codigoPOS, fecha):
    global totalUploaded
    global totalSubidas
-   if {'codigoPOS': codigoPOS, 'fecha': fecha} in uploaded:
+   global response
+   if {'codigoPOS': codigoPOS, 'fecha': fecha} in response['uploadedVisits']:
       print('already uploaded', codigoPOS, '->', fecha)
       totalUploaded += 1
       return True
@@ -64,5 +68,5 @@ def hasbeenUploaded(codigoPOS, fecha):
 httpClient.login(response)
 Visits()
 print("totalUploaded " + str(totalUploaded))
-print("totalSubidas " + str(totalSubidas))
+print("Total De Intentos De Subir: " + str(totalSubidas))
 # POSImages()
