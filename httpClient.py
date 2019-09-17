@@ -17,14 +17,17 @@ def uploadVisits(response, pdv):
     del pdv['imagenes'] 
     r = requests.post(URL+'/points-of-sale/visits/', pdv, files=images, cookies=cookies)
     if r.status_code != 200:
-        status = 'error'
+        status = 'false'
         response['logs'].append({'method': 'add-visit',  'status': status, 'data': r.text, 'pdv': pdv})
+        response['errors'].append({'method': 'add-visit',  'status': status, 'data': r.text, 'pdv': pdv})
     else:
         status = r.status_code
         response['logs'].append({'method': 'add-visit', 'status': status, 'data': r.json(), 'pdv': pdv})
         data = r.json()
         if data['ok']:
             response['uploadedVisits'].append(pdv)
+        else:
+            response['errors'].append({'method': 'add-visit',  'status': status, 'data': r.text, 'pdv': pdv})
     print("add-visit", r.status_code, r.text)
 
 def addPOSImage(response, pdv):
@@ -32,8 +35,8 @@ def addPOSImage(response, pdv):
     r = requests.put(URL+'/points-of-sale/'+pdv['codigoPOS'], data={}, files={'image': image}, cookies=cookies)
     if r.status_code != 200:
         status = 'error'
-        response.append({'method': 'add-visit',  'status': status, 'data': r.text, 'pdv': pdv})
+        response['logs'].append({'method': 'addPOSImage',  'status': status, 'data': r.text, 'pdv': pdv})
     else:
         status = r.status_code
-        response.append({'method': 'add-visit', 'status': status, 'data': r.json()})
+        response['logs'].append({'method': 'addPOSImage', 'status': status, 'data': r.json()})
     print("Add-POS-Image", r.status_code, r.text)

@@ -1,5 +1,6 @@
 import fs, httpClient
 import json
+from consts import FROM_PATH
 
 def log():
    with open('./logs.json', 'w') as f: 
@@ -14,13 +15,14 @@ totalSubidas = 0
 
 response = {}
 response['logs'] = []
+response['errors'] = []
 response['uploadedVisits'] = []
 uploaded = []
 with open('./last-uploaded.json', 'r') as f: 
    uploaded = json.load(f)
 # FS TEST
 def Visits():
-   pdvs = fs.dirToJSON({}, 'C:\\Users\\DELL\\Google Drive\\MISTERY DATA\\administracion\\datos\\visitas') 
+   pdvs = fs.dirToJSON({}, FROM_PATH) 
 
    for nombre, visitas in pdvs.items():
       index = nombre.index('+')
@@ -63,3 +65,4 @@ httpClient.login(response)
 Visits()
 print("totalUploaded " + str(totalUploaded))
 print("totalSubidas " + str(totalSubidas))
+# POSImages()
