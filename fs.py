@@ -1,6 +1,8 @@
 import os
+import sys
 count = 0
 tabs = ''
+
 
 json = {'name': 'dirObject'}
 
@@ -56,13 +58,17 @@ def look(obj, path):
                propName = file.name
 
                if os.path.isfile(os.path.join(path, file.name)):
-                  indexEXT = file.name.rindex('.')
-                  propName = file.name[:indexEXT]
-                  
-                  obj[propName] = {}
-                  obj[propName]['path'] = path +'\\' + file.name
-                  obj[propName]['ext'] = file.name[indexEXT:]
-                  obj[propName]['originalName'] = file.name
+                    indexEXT = file.name.rindex('.')
+                    propName = file.name[:indexEXT] 
+                    
+                    slash = ''
+                    if sys.platform in ['Windows', 'win32', 'cygwin']: slash = '\\' 
+                    elif sys.platform in ['linux', 'linux2']: slash = '/'
+
+                    obj[propName] = {}
+                    obj[propName]['path'] = path + slash + file.name
+                    obj[propName]['ext'] = file.name[indexEXT:]
+                    obj[propName]['originalName'] = file.name
                else:
                     obj[propName] = {}
        

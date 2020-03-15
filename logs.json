@@ -16,5 +16,1351 @@
                 "redirectURL" : "/home"
             }
         }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "230336"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "230340"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "230355"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "230383"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "231376"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "231417"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "231429"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "232337"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "232344"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "232405"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "232406"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "233351"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "233413"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "233493"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "233512"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "398349"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "404621"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "405471"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "405924"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "409920"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "412777"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "415814"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "417451"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "418294"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : false, 
+            "error" : "No se ha encontrado ningun punto de venta con este CODIGO"
+        }, 
+        "colmado" : {
+            "codigo" : "4188546"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "422825"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "424454"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "243084"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "243230"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "243724"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "248943"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "251364"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "261666"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "262483"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "268689"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "274167"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "274436"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "427286"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "428841"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "428920"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "429109"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "430401"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "445599"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "445989"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "446394"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "447058"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "462330"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "465036"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "233610"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "233715"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "233820"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "234912"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "236674"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "239935"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "240412"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "241399"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "241841"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "242641"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "233526"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "285606"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "425006"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "292379"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "302281"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "305551"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "312449"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "371251"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "380185"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "383489"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "385257"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "385570"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "387296"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "387478"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "389381"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "396924"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "398277"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "470205"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "472998"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "475185"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "475371"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "492115"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "496569"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "498232"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "504470"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "512289"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "519681"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "520878"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "522746"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "523115"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "524148"
+        }
+    }, 
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : {
+            "ok" : true, 
+            "data" : {
+                "n" : 1, 
+                "nModified" : 1, 
+                "ok" : 1
+            }
+        }, 
+        "colmado" : {
+            "codigo" : "527203"
+        }
     }
 ]

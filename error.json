@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "method" : "add-colmado-images", 
+        "status" : 200, 
+        "data" : "{\"ok\":false,\"error\":\"No se ha encontrado ningun punto de venta con este CODIGO\"}", 
+        "colmado" : {
+            "codigo" : "4188546"
+        }
+    }
+]

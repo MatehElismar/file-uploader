@@ -13,7 +13,11 @@ def login(response):
 def uploadVisits(response, pdv):
     images = {}
     for imageName, values in pdv['imagenes'].items():  
+        if values["ext"] == '.ini':
+            continue
         images[imageName] = open(values['path'], 'rb')
+
+
     del pdv['imagenes'] 
     r = requests.post(URL+'/points-of-sale/visits/', pdv, files=images, cookies=cookies)
     if r.status_code != 200:
@@ -29,6 +33,31 @@ def uploadVisits(response, pdv):
         else:
             response['errors'].append({'method': 'add-visit',  'status': status, 'data': r.text, 'pdv': pdv})
     print("add-visit", r.status_code, r.text)
+
+def uploadColmados(response, colmado):
+    files = []
+ 
+    for imageName, values in colmado['imagenes'].items():  
+        if values["ext"] == '.ini':
+            continue
+        files.append(('images',  open(values['path'], 'rb')))
+
+    del colmado["imagenes"] 
+    r = requests.put(URL+'/api/colmados/'+ colmado['codigo'], {}, files=files, cookies=cookies)
+    if r.status_code != 200:
+        status = 'false'
+        response['logs'].append({'method': 'add-colmado-images',  'status': status, 'data': r.text, 'colmado': colmado})
+        response['errors'].append({'method': 'add-colmado-images',  'status': status, 'data': r.text, 'colmado': colmado})
+    else:
+        status = r.status_code
+        response['logs'].append({'method': 'add-colmado-images', 'status': status, 'data': r.json(), 'colmado': colmado})
+        data = r.json()
+        if data['ok']:
+            response['uploadedVisits'].append(colmado)
+        else:
+            response['errors'].append({'method': 'add-colmado-images',  'status': status, 'data': r.text, 'colmado': colmado})
+    print("add-colmado-images", r.status_code, r.text)
+
 
 def addPOSImage(response, pdv):
     image = open(pdv['imageInfo']['path'], 'rb')
